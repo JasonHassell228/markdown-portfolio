@@ -1,3 +1,3 @@
 <del> Replace this with a link to your a GitHub or social media profile. </del>
 
-(GitHub)[www.github.com]
+(GitHub)[https://github.com/]
